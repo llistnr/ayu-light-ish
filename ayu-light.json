@@ -1,0 +1,32 @@
+{
+    "name": "ayu-light",
+    "version" : 1,
+    "shared" : {
+        "backgroundColor" : "#FAFAFA",
+        "foregroundColor" : "#575F66",
+        "cursorColor" : "#FF9940",
+        "colorPaletteOverrides" : [
+            "#575F66",
+            "#F51818",
+            "#86B300",
+            "#F2AE49",
+            "#399EE6",
+            "#A37ACC",
+            "#4CBF99",
+            "#FAFAFA",
+            "#8A9199",
+            "#F51818",
+            "#86B300",
+            "#F2AE49",
+            "#399EE6",
+            "#A37ACC",
+            "#4CBF99",
+            "#FAFAFA"
+        ]
+    },
+    "appearance": {
+        "lightOverride": false,
+        "darchOverride": true
+    }
+}
+
