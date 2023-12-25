@@ -1,5 +1,7 @@
 # ayu-light-ish
 
+![screenshot](screenshot.png)
+
 ayu-light theme for iSH.
 
 - **ayu** [GitHub Repo](https://github.com/dempfi/ayu)
