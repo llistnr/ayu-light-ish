@@ -1,6 +1,6 @@
 # ayu-light-ish
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpeg)
 
 ayu-light theme for iSH.
 
