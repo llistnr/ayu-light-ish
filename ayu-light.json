@@ -6,22 +6,22 @@
         "foregroundColor" : "#575F66",
         "cursorColor" : "#FF9940",
         "colorPaletteOverrides" : [
-            "#575F66",
+            "#000000",
             "#F51818",
             "#86B300",
             "#F2AE49",
             "#399EE6",
             "#A37ACC",
             "#4CBF99",
-            "#FAFAFA",
-            "#8A9199",
+            "#C7C7C7",
+            "#686868",
             "#F51818",
             "#86B300",
             "#F2AE49",
             "#399EE6",
             "#A37ACC",
             "#4CBF99",
-            "#FAFAFA"
+            "#D1D1D1"
         ]
     },
     "appearance": {
